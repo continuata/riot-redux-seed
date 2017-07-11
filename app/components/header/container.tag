@@ -1,0 +1,3 @@
+<header>
+  <header-view/>
+</header>
