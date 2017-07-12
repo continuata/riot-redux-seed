@@ -4,15 +4,15 @@
 ### installation using yarn
 Simply navigate to your project folder and type
 ```bash
-$ yarn
+yarn
 ```
 
 ### running a hot-loading version of the app
 ```bash
-$ yarn start
+yarn start
 ```
 
 ### building the app ready for deployment
 ```bash
-$ yarn bundle
+yarn bundle
 ```
